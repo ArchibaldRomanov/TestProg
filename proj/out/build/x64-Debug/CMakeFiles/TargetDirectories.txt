@@ -1,0 +1,9 @@
+E:/proj/out/build/x64-Debug/CMakeFiles/demoVendorCatch2.dir
+E:/proj/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+E:/proj/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+E:/proj/out/build/x64-Debug/Catch2/CMakeFiles/edit_cache.dir
+E:/proj/out/build/x64-Debug/Catch2/CMakeFiles/rebuild_cache.dir
+E:/proj/out/build/x64-Debug/Catch2/src/CMakeFiles/Catch2.dir
+E:/proj/out/build/x64-Debug/Catch2/src/CMakeFiles/Catch2WithMain.dir
+E:/proj/out/build/x64-Debug/Catch2/src/CMakeFiles/edit_cache.dir
+E:/proj/out/build/x64-Debug/Catch2/src/CMakeFiles/rebuild_cache.dir
